@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **WSIDFY/WSIDFY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+p {
+font-size:12px;
+  font-weight:bold;
+}
+  </style>
+
+
+
+<div align = center>
+
+<p>sunglasses Introduction</p>
+
+
+
+</div>
