@@ -4,11 +4,11 @@
 
 ## 🌞 Profile
 
-Hello! I'm an engineering student who is eagerly moving forward. Nice to meet you! 😊
+<b>Hello! I'm an engineering student who is eagerly moving forward. Nice to meet you! 😊</b>
   
-- 📖Major : Software Engineering
-- 📬Contact : qmffjr2001@naver.com
-- 🐧Tistory : https://qmffjr2001.tistory.com
+- <b>📖Major</b> : Software Engineering
+- <b>📬Contact</b> : qmffjr2001@naver.com
+- <b>🐧Tistory</b> : https://qmffjr2001.tistory.com
 <br><br>
 
 <div align=center>
