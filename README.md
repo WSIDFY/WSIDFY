@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-p {
-font-size:12px;
-  font-weight:bold;
-}
-  </style>
-
-
-
 <div align = center>
 
 <p>sunglasses Introduction</p>
