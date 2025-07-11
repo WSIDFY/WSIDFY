@@ -21,6 +21,8 @@
     - LG Aimers 4th
 - <b>KITRI</b> (2023.09 - 2024.02)
     - White Hat School 1st
+- <b>글로벌핀테크산업진흥센터</b> (2025.07)
+    - BIFC 디지털 금융 전문인력 양성과정
 <br>
 
 ## 💪 Tech Stack
