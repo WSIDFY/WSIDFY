@@ -58,7 +58,15 @@
 ![WSIDFY's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSIDFY&show_icons=true&theme=dracula)
 
 
-
+<p align='center'>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=WSIDFY&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/WSIDFY"
+  width="500"
+  height="300"
+/>
+</a>
+</p>
 
 
 <!--
