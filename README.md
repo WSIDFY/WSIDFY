@@ -12,8 +12,8 @@
 <br><br><br>
 
 ## ☕ Work Experience
-- <b>Internship</b> (2024.09 - 2025.02)
-    - ZeroWeb : Planning and maintaining web/mobile websites.
+- <b>ZeroWeb</b> (2024.09 - 2025.02)
+    - Planning and maintaining web/mobile websites.
 <br>
 
 ## 🔥 Activities
