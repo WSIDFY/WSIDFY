@@ -17,12 +17,12 @@
 <br>
 
 ## 🔥 Activities
-- <b>LG - AI</b> (2024.01 - 2024.02)
-    - LG Aimers 4th
-- <b>KITRI</b> (2023.09 - 2024.02)
-    - White Hat School 1st
-- <b>글로벌핀테크산업진흥센터</b> (2025.07)
-    - BIFC 디지털 금융 전문인력 양성과정
+- <b>LG Aimers 4th</b> (2024.01 - 2024.02)
+    - LG - AI
+- <b>White Hat School 1stKITRI</b> (2023.09 - 2024.02)
+    - KITRI
+- <b>BIFC 디지털 금융 전문인력 양성과정글로벌핀테크산업진흥센터</b> (2025.07)
+    - 글로벌핀테크산업진흥센터
 <br>
 
 ## 💪 Tech Stack
